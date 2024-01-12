@@ -1,0 +1,30 @@
+{
+    "liste_site": [
+
+      {
+        "url":"https://junkyard.com/en/outlet/#brand=Nike&sort=DISCOUNT&page=1",
+        "grid":".css-fdgdl2-StyledProductCard.e1xleaue5",
+        "brand":".css-1brhz7t",
+        "description":"p.MuiTypography-root.MuiTypography-body2.MuiTypography-noWrap.css-1rq4imx",
+        "reduction":"span.MuiTypography-root.MuiTypography-caption.ez67mrr1.css-5pbood-StyledDiscount",
+        "price":"p.MuiTypography-root.MuiTypography-body1.css-1k01jib",
+        "img":".css-hw7qbh-StyledImg"
+      },
+      {
+        "url":"https://www.courir.com/fr/c/outlet/marque/nike/?sz=64",
+        "grid":".product__tile__container",
+        "brand":".product__name__brand.js-product-name_brand",
+        "description":".product__name__product.js-product-name_product",
+        "reduction":".product-tags-item.js--promotion-tag",
+        "price":".promotional-price.js-product__promotional-price",
+        "img":".product__image img"
+      }
+
+          
+  
+
+        
+    ]
+}
+
+
